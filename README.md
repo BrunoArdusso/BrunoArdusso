@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-class Developer_Full_Stack:
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Developer_Full_Stack(){
         name: "Bruno Ardusso"
         education: ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
 
@@ -26,7 +29,7 @@ class Developer_Full_Stack:
 
     def say_hi():
        console.log("Thanks for dropping by, hope you find some of my work interesting.")
-
+}
 
 me = SoftwareEngineer()
 me.say_hi()
