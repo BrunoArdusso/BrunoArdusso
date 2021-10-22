@@ -1,9 +1,15 @@
 ### Bienvenido! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
+### 📧 Contacto 
+<p align="left">
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-brunoardusso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoardusso/)](https://www.linkedin.com/in/brunoardusso/)
+[![Gmail Badge](https://img.shields.io/badge/-brunoardu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunoardu@gmail.com)](mailto:brunoardu@gmail.com)
+</p>
 ### ⚡ Tecnologias que utilizo
-<p>
+<p align="right">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -22,7 +28,6 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
 </p>
   
  
@@ -47,9 +52,6 @@ Me = Developer_Full_Stack()
 Me.Saludar();
 ```
 
-### 📧 Contacto 
 
-[![Linkedin Badge](https://img.shields.io/badge/-brunoardusso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoardusso/)](https://www.linkedin.com/in/brunoardusso/)
-[![Gmail Badge](https://img.shields.io/badge/-brunoardu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunoardu@gmail.com)](mailto:brunoardu@gmail.com)
 
 
