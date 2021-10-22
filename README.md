@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # -*- coding: utf-8 -*-
 
 class Developer_Full_Stack(){
-        name: "Bruno Ardusso"
+        name= "Bruno Ardusso"
         education: ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
 
         located_in: "Santa Fe, Argentina"
