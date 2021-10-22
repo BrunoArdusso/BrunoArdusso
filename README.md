@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-job: Robotics Software Engineer
-company: Coalescent Mobile Robotics
+class Developer_Full_Stack:
+        name: "Bruno Ardusso"
+        education: ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
 
-technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Sensor Fusion", "SLAM"]
-currently_learning: ["Behaviour Trees", "PetriNets"]
-hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
+        located_in: "Santa Fe, Argentina"
 
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+        self.language_spoken = ["Spanish", "en_US"]
+
+    def say_hi():
+       console.log("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+
+
 ```
