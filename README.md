@@ -16,24 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ```js
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+
 
 class Developer_Full_Stack(){
-        name= "Bruno Ardusso"
-        education: ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
+        nombre = "Bruno Ardusso"
+        educacion = ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
 
-        located_in: "Santa Fe, Argentina"
+        ubicacion = "Santa Fe, Argentina"
 
-        self.language_spoken = ["Spanish", "en_US"]
+        idioma = ["Español", "Ingles"]
 
-   funtion say_hi(){
-       console.log("Thanks for dropping by, hope you find some of my work interesting.")
+   funtion Saludar() {
+       console.log("Gracias por pasar, espero que encuentres algo de mi trabajo interesante.")
     }
 }
 
-me = SoftwareEngineer()
-me.say_hi()
+me = Developer_Full_Stack()
+me.Saludar();
 ```
 
 
