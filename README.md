@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 
 class Developer_Full_Stack(){
-        nombre = "Bruno Ardusso"
-        educacion = ["Developer Full Stack Salesforce", "Developer Full Stack Web", "Ingenieria en Informatica"]
-
+        nombre = "Bruno Ardusso"        
+        educacion = ["Developer Full Stack Salesforce", 
+                     "Developer Full Stack Web",
+                     "Ingenieria en Informatica"]
         ubicacion = "Santa Fe, Argentina"
-
         idioma = ["Español", "Ingles"]
 
    funtion Saludar() {
-       console.log("Gracias por pasar, espero que encuentres algo de mi trabajo interesante.")
+       Console.log("Gracias por pasar, espero que encuentres algo de mi trabajo interesante.")
     }
 }
 
