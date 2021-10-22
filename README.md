@@ -27,8 +27,9 @@ class Developer_Full_Stack(){
 
         self.language_spoken = ["Spanish", "en_US"]
 
-    def say_hi():
+   funtion say_hi(){
        console.log("Thanks for dropping by, hope you find some of my work interesting.")
+    }
 }
 
 me = SoftwareEngineer()
