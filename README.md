@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```yaml
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -35,4 +35,4 @@ me = SoftwareEngineer()
 me.say_hi()
 
 
-```
+
